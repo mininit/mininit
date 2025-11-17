@@ -6,5 +6,5 @@
 - 🎮 Game/visual simulations (rendering, physics, and engine tinkering)
 
 ## Featured Projects
-**[nav](https://github.com/mininit/nav)** — A terminal-based file navigator
-**[CliWaifuTamagotchi](https://github.com/HenryLoM/CliWaifuTamagotchi)** — A terminal-based tamagotchi
+- **[nav](https://github.com/mininit/nav)** — A terminal-based file navigator
+- **[CliWaifuTamagotchi](https://github.com/HenryLoM/CliWaifuTamagotchi)** — A terminal-based tamagotchi
