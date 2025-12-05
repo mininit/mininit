@@ -1,6 +1,6 @@
 # 👋 Hey
 ## What I Do
-- 🖥️ CLI and utilities (C, Go, Python, Bash, Linux)
+- 🖥️ CLI and utilities (C/C++, Go, Python, Bash, Linux)
 - 🧰 Infrastructure, automation, and homelab management (Proxmox, TrueNAS, Docker)
 - 🌐 Web development (static site generators, HTML, CSS)
 - 🎮 Game/visual simulations (rendering, physics, and engine tinkering)
