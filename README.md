@@ -11,8 +11,9 @@ CLI tools, infrastructure, automation, and the occasional physics sim.
 
 ### Projects
 
-- [Sand](https://github.com/mininit/sand) - sand physics simulator (C++/SDL)
-- [Pi Collisions](https://github.com/mininit/pi-collisions) - block collisions simulator (C++/SDL) 
+- [lsmkv](https://github.com/mininit/lsmkv) - A CLI tool for auditing Matroska (.mkv) files
+- [sand](https://github.com/mininit/sand) - sand physics simulator (C++/SDL)
+- [pi-collisions](https://github.com/mininit/pi-collisions) - block collisions simulator (C++/SDL) 
 
 ### Contributions
 
